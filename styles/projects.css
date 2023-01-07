@@ -7,7 +7,7 @@
 .header{
     position: relative;
     height: 100vh;
-    background-image: url('../images/banner1.png');
+    background-image: url('../images/banner4.png');
     background-repeat: no-repeat;
     background-origin: content-box;
     background-size: cover;
@@ -15,9 +15,9 @@
 }
 .header-body{
     position: absolute;
-    text-align: right;
+    text-align: left;
     width: 250px;
-    right:20%;
+    left:20%;
     top: 40px;
     margin-top: 10%;
 }
