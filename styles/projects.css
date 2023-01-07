@@ -3,6 +3,7 @@
     margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
+/* header section start */
 .header{
     position: relative;
     height: 100vh;
@@ -45,6 +46,8 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+/* header section end */
+/* fail to achieve section start */
 
 .acievement{
     
@@ -89,6 +92,8 @@ li{
     margin-bottom:5px ;
     list-style:disc;
 }
+/* fail to achieve section end */
+/* planning section start */
 .learning{
     text-align: center;
     margin: 50px;
@@ -114,6 +119,8 @@ li{
     font-size: 15px;
 
 }
+/* planning section end */
+/* important section start */
 
 .trickey-section{
     
@@ -158,6 +165,8 @@ li{
     cursor: pointer;
 
 }
+/* important section end */
+/* footer section start */
 .footer{
    
     display: flex;
@@ -221,6 +230,7 @@ li{
     width: 100%;
     height: 40px;
     background-color: #F15B22;
+    color: white;
     padding: 10px;
     margin-bottom: 20px;
     border:none;
@@ -241,6 +251,8 @@ li{
     border-radius: 5px;
 
 }
+/* important section end */
+/* form section start */
 .form-info{
     font-weight: 700;
     font-size: 25px;
@@ -267,8 +279,13 @@ li{
     width: 90%;
     height: 30px;
     margin: 10px;
+    border: none;
+    border-radius: 5px;
 }
 .contact-form textarea{
     width: 90%;
+    border: none;
+    border-radius: 5px;
 }
+/* form section end */
 
